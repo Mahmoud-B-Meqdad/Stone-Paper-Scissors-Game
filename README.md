@@ -21,12 +21,12 @@ Make a Choice: Click on either the Stone, Paper, or Scissors image to make your 
 View Results: The computer’s choice will be displayed alongside yours, and the result (win, lose, or draw) will be shown, with scores updated.
 Reset or Close: You can reset the game by clicking the "Reset" button to start fresh or close the game by pressing "Close."
 
-https://github.com/user-attachments/assets/beb60a3a-90e9-4759-9d3a-7560080f6bb8
-
-
 
 Files and Structure:
 
 frmStartGame.cs: Contains code for the main menu and navigation to start the game.
 frmStonePaperScissorsGame.cs: Implements the core gameplay logic, including computer choice generation, player choice handling, winner determination, and score updating.
 Program.cs: The main entry point for the application.
+
+
+https://github.com/user-attachments/assets/f5580e4a-85b4-4426-8dd1-f0a4601ddd27
