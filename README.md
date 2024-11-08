@@ -28,5 +28,4 @@ frmStartGame.cs: Contains code for the main menu and navigation to start the gam
 frmStonePaperScissorsGame.cs: Implements the core gameplay logic, including computer choice generation, player choice handling, winner determination, and score updating.
 Program.cs: The main entry point for the application.
 
-
-https://github.com/user-attachments/assets/f5580e4a-85b4-4426-8dd1-f0a4601ddd27
+https://github.com/user-attachments/assets/e1a1878f-0e0e-45ee-8b72-4bfeaf2ebd28
