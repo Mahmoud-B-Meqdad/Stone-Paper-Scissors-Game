@@ -7,7 +7,7 @@ Gameplay: The player selects between Stone, Paper, or Scissors, while the comput
 Score Tracking: Both the player and the computer's wins are tracked and displayed on the screen.
 Reset Functionality: The player can reset the game, clearing the scores and restarting the round count.
 Visuals: The game uses image resources to represent each choice (Stone, Paper, Scissors) and shows the player’s and computer's selection.
-Technologies Used
+# Technologies Used
 Language: C#
 Framework: .NET Framework 4.7.2
 IDE: Visual Studio
