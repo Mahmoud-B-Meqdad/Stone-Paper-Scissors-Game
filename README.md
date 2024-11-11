@@ -1,7 +1,7 @@
 # Stone-Paper-Scissors-Game
 The Stone-Paper-Scissors Game is a simple desktop game developed in C# using Windows Forms. This classic game lets players compete against the computer in rounds of "Stone, Paper, Scissors" by selecting their choice through a graphical interface.
 
-Features:
+# Features:
 
 Gameplay: The player selects between Stone, Paper, or Scissors, while the computer randomly generates its choice. The game then displays the result (win, lose, or draw) and updates the score accordingly.
 Score Tracking: Both the player and the computer's wins are tracked and displayed on the screen.
@@ -14,7 +14,7 @@ IDE: Visual Studio
 Graphics: Windows Forms PictureBox for images and Labels for scores and messages.
 
 
-How to Play:
+# How to Play:
 
 Start the Game: Launch the application. The main menu will open, allowing you to begin a new game.
 Make a Choice: Click on either the Stone, Paper, or Scissors image to make your choice.
@@ -22,10 +22,12 @@ View Results: The computer’s choice will be displayed alongside yours, and the
 Reset or Close: You can reset the game by clicking the "Reset" button to start fresh or close the game by pressing "Close."
 
 
-Files and Structure:
+# Files and Structure:
 
 frmStartGame.cs: Contains code for the main menu and navigation to start the game.
 frmStonePaperScissorsGame.cs: Implements the core gameplay logic, including computer choice generation, player choice handling, winner determination, and score updating.
 Program.cs: The main entry point for the application.
+
+# Video for the game
 
 https://github.com/user-attachments/assets/e1a1878f-0e0e-45ee-8b72-4bfeaf2ebd28
